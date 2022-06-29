@@ -1,3 +1,8 @@
+// Credits to the Cortext-M-Team
+// https://github.com/rust-embedded/cortex-m/tree/master/cortex-m-semihosting
+// I've use the code as a base and added
+// AArch64 code to made it compatible
+
 // Declare Crate Attributes
 #![no_std]
 // Declare Modules
